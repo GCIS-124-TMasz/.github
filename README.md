@@ -1,2 +1,2 @@
 # .github
-Repository for GCIS-124-2225
+This is the official GitHub Repository for GCIS-124-2225
